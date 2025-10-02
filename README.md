@@ -1,4 +1,4 @@
-# NextJs Clean Architecture
+# NEXTJS PURE CLEAN ARCHITECTURE
 
 UR TEAM ZB
-online documentation [here](https://zonblade.github.io/nextjs-clean-architecture/)
+ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/)
