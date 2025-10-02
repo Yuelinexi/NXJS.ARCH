@@ -1,4 +1,4 @@
 # NextJs Clean Architecture
 
-COLLAB WITH ZONBLADE ( UCOK ) 
+UR TEAm
 online documentation [here](https://zonblade.github.io/nextjs-clean-architecture/)
