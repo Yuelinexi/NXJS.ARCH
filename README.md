@@ -1,7 +1,7 @@
 # NEXTJS PURE CLEAN ARCHITECTURE
 
-UR TEAM ZB
-ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/)
+OUR TEAM ZB
+ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/) 3
 
 <p align="left">
   <a href="https://www.paypal.me/xmorinori">
